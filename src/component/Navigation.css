@@ -1,0 +1,53 @@
+.logo {
+    
+    width: 30%;
+    text-align: center;
+    border-radius: 15px;
+    color: 	#FFFF00;
+}
+
+/* .name {
+    width: 24%;
+       text-align: center;
+       border-radius: 15px;
+    color: 	#FFFF00;
+} */
+
+.ms-auto {
+    width: fit-content;
+    background-color: #FFEA00;
+    border-radius: 20px;
+    color: #000000;
+}
+
+.badge {
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 9px;
+}
+
+.navbar{
+    color: #000000;
+}
+.dropdown{
+color: 	#FFFF00;
+font-weight: bold;
+
+}
+
+@media only screen and (max-width: 600px) {
+.logo {
+    
+    width: 35%;
+    text-align: center;
+    border-radius: 15px;
+    color: 	#FFFF00;
+}
+
+.name {
+    width: 47%;
+       text-align: center;
+       border-radius: 15px;
+    color: 	#FFFF00;
+}
+}

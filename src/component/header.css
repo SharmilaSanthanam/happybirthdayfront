@@ -1,0 +1,11 @@
+.header{
+    border: 10px,solid, black;
+    height: 100px;
+    background-color: black;
+    color: #FFFF00;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    padding: 10px;
+    padding-top: 50px;
+}
