@@ -4,9 +4,8 @@ import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 export const appApi = createApi({
     reducerPath: "appApi",
-    // baseQuery: fetchBaseQuery({ baseUrl: "https://birthdaywishbackend.herokuapp.com" }),
-    // baseQuery: fetchBaseQuery({ baseUrl: "https://happybirthdayvenu.onrender.com" }),
-    baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:5001" }),
+    baseQuery: fetchBaseQuery({ baseUrl: "https://happybirthday-nq2v.onrender.com" }),
+//     baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:5001" }),
     endpoints: (builder) => ({
         // signup: builder.mutation({
         //     query: (user) => ({
