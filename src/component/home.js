@@ -32,11 +32,11 @@ function Home() {
         <Col md={6} className='message' style={{ backgroundColor: "#FFFF00"}}>
           <h2 className='heading'>Hi!!! <br></br>Have a Great Year Ahead!!! <br></br>With the Wishes from your Besties!!!</h2>
      {/* last messages here --> comes from the backend */}
-     <div className="d-flex justify-content-center flex-wrap">
+    {/*    <div className="d-flex justify-content-center flex-wrap">
                     {lastProducts.map((product) => (
                         <ProductPreview {...product} />
                     ))}
-                </div>
+                </div> */}
       
     {/*   <div style={{ backgroundColor: "#FFFF00"}}>
                     <Link to="/category/all" style={{ textAlign: "right", display: "block", textDecoration: "none" }}>
