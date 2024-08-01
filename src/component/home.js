@@ -38,11 +38,11 @@ function Home() {
                     ))}
                 </div>
       
-      <div style={{ backgroundColor: "#FFFF00"}}>
+    {/*   <div style={{ backgroundColor: "#FFFF00"}}>
                     <Link to="/category/all" style={{ textAlign: "right", display: "block", textDecoration: "none" }}>
                         See more {">>"}
                     </Link>
-                </div>
+                </div> */}
       {/* </div> */}
                </Col>  
             </Row>
